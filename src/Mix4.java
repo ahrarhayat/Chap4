@@ -13,7 +13,8 @@ public class Mix4 {
 
 
         }
-        System.out.println(count + " " + m4a[1].counter);
+        System.out.println(count + " " + m4a[1].counter
+         );
     }
 
         public int MaybeNew(int index)
